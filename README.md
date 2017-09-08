@@ -14,3 +14,12 @@
 前端布局采用flexbox+rem布局，后端布局使用 element-ui
 
 > 主要技术栈： Express & Vue全家桶 & mongoose 
+
+###### 安装
+```
+npm install
+
+cd server
+
+node index.js
+```
